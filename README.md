@@ -19,8 +19,8 @@ __저의 프로젝트를 확인해보세요__
 <h2>저는 이런 사람이에요</h2>
 
 - **Email** |  rkekqmf0926@gmail.com
-- **Github** | ****[https://github.com/joseph0926](https://github.com/joseph0926)
-- **Blog** | ****[https://joseph0926.tistory.com/](https://joseph0926.tistory.com/)
+- **Github** | [https://github.com/joseph0926](https://github.com/joseph0926)
+- **Blog** | [https://joseph0926.tistory.com/](https://joseph0926.tistory.com/)
 
 공부할때는 **완벽**을 프로젝트시에는 **완성**을 추구하며, 
 
