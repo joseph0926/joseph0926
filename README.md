@@ -9,7 +9,7 @@ __저의 프로젝트를 확인해보세요__
     <a href="https://github.com/joseph0926/project_02-MoneyNote">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseph0926&repo=project_02-MoneyNote" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/joseph0926/project_04-booking">
+    <a href="https://github.com/joseph0926/project_03-Barcelona-Fan-Community">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseph0926&repo=project_03-Barcelona-Fan-Community" alt="GitHub Stats" />
     </a>
   </p>
