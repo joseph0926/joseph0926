@@ -2,18 +2,6 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=joseph0926.joseph0926)](https://github.com/joseph0926)
 
-__저의 프로젝트를 확인해보세요__
-
-<div>
-  <p>
-    <a href="https://github.com/joseph0926/project_02-MoneyNote">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseph0926&repo=project_02-MoneyNote" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/joseph0926/project_03-Barcelona-Fan-Community">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseph0926&repo=project_03-Barcelona-Fan-Community" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
 
 
 <h2>저는 이런 사람이에요</h2>
