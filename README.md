@@ -1,7 +1,5 @@
 <h2>완벽과 완성을 모두 잡고싶은 <b>김영훈</b>입니다!</h2>
 
-![Visitor](https://komarev.com/ghpvc/?username=joseph0926)
-
 
 <h2>저는 이런 사람이에요</h2>
 
