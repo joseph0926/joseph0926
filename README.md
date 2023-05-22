@@ -1,8 +1,6 @@
 <h2>완벽과 완성을 모두 잡고싶은 <b>김영훈</b>입니다!</h2>
 
 
-<h2>저는 이런 사람이에요</h2>
-
 - **Email** |  rkekqmf0926@gmail.com
 - **Github** | [https://github.com/joseph0926](https://github.com/joseph0926)
 - **Blog** | [https://joseph0926.tistory.com/](https://joseph0926.tistory.com/)
