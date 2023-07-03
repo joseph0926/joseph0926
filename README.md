@@ -1,4 +1,4 @@
-<h2>프론트엔드 개발자 <b>김영훈</b>입니다!</h2>
+<h2>Javascript 개발자 <b>김영훈</b>입니다!</h2>
 
 
 - **Email** |  rkekqmf0926@gmail.com
