@@ -5,7 +5,7 @@
 
 - 🌱 관심사 **Caching, Web Animation, Microservice**
 
-- 👨‍💻 주요 프로젝트 [https://github.com/joseph0926/Barca-Market](https://github.com/joseph0926/Barca-Market)
+- 👨‍💻 주요 프로젝트 [https://github.com/joseph0926/GameAuction](https://github.com/joseph0926/GameAuction)
 
 - 📝 블로그 [https://joseph0926.tistory.com](https://joseph0926.tistory.com)
 
