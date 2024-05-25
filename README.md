@@ -1,7 +1,7 @@
 <h1 align="center">프론트엔드 개발자 김영훈입니다</h1>
-<h3 align="center">Pandora.TV frontend developer</h3>
+<h3 align="center">NHN Injeinc frontend developer</h3>
 
-- 🔭 회사 [Pandora.TV Cobak](https://cobak.co.kr/)
+- 🔭 회사 [NHN Injeinc](https://www.injeinc.co.kr/new/main/main.asp)
 
 - 🌱 관심사 **Caching, Web Animation, Microservice**
 
