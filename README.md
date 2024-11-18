@@ -1,18 +1,40 @@
-<h1 align="center">프론트엔드 개발자 김영훈입니다</h1>
-<h3 align="center">NHN Injeinc frontend developer</h3>
+# 안녕하세요, 프론트엔드 개발자 김영훈입니다!
 
-2023년 7월 판도라티비 - 코박팀에 입사하여 여러 프론트엔드 업무를 담당하였고, 현재는 NHN Injeinc에서 프론트엔드 업무를 담당하고있습니다.
+레거시 코드 리팩토링과 성능 최적화에 관심이 많으며, React와 Next.js를 활용한 모던 웹 개발을 선호합니다.
 
-판도라티비에서는 주로 웹뷰와 웹에 대한 레거시 코드를 최신 코드로 전환하는 작업과 성능 개선을 위한 최적화 작업을 담당하였으며, 비즈니스 페이지 개발과 반응형 웹으로 전환등의 퍼블리싱 작업도 수행하였습니다.
+## 🚀 주요 프로젝트
 
-NHN Injeinc에서는 사내 프로젝트를 처음부터 구축하면서 헤드리스를 이용한 여러 공통 컴포넌트 제작 작업을 수행하였습니다
+- [GameCord](https://github.com/joseph0926/GameCord): 게임 리뷰와 평가를 공유하는 커뮤니티 플랫폼
+- [Client Cache Query](https://github.com/joseph0926/client-cache-query): React Query에서 영감을 받은 클라이언트 상태 관리 라이브러리
+- [React Router File Routing](https://github.com/joseph0926/react-router-file-routing): React Router에 파일/폴더 기반 라우팅을 도입한 라이브러리
 
-또한 오픈소스에 이슈들에 답변을 달면서 여러 오픈소스들을 단순 사용자로 사용하는것에서 멈추는 것이 아닌, 오픈소를 이해하려 노력합니다.
+## 🛠 기술 스택
 
-- 🔭 회사 [NHN Injeinc](https://www.injeinc.co.kr/new/main/main.asp)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 
-- 📝 블로그 [https://joseph0926.tistory.com](https://joseph0926.tistory.com)
+## 📫 연락처
 
-- 📫 연락처 **rkekqmf0926@gmail.com**
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rkekqmf0926@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph0926)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://joseph0926.tistory.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://joseph0926-portfolio.vercel.app)
 
-- 포트폴리오: https://joseph0926-portfolio.vercel.app
+## 💡 오픈 소스 기여
+
+- [shadcn-ui](https://github.com/shadcn-ui/ui/pull/4745): 내부 코드 로직 개선을 위한 PR 제안
+- [radix-ui](https://github.com/radix-ui/primitives/issues/2832#issuecomment-2327829491): Accordion 컴포넌트 버그 수정 제안
+
+## 📝 최근 블로그 글
+
+- [React 18 Concurrent Features로 검색 UI/UX 개선하기](https://joseph0926-portfolio.vercel.app/blogs/7)
+- [React Query를 사용한 이유](https://joseph0926.tistory.com/114)
+- [대규모 공통 컴포넌트 시스템 설계](https://joseph0926.tistory.com/117)
+- [CSS-JS 충돌 문제 해결](https://joseph0926.tistory.com/116)
+
+## 📊 GitHub 통계
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseph0926&show_icons=true&theme=radical)
+
