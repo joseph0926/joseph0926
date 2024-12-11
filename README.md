@@ -5,7 +5,6 @@
 ## 🚀 주요 프로젝트
 
 - [GameCord](https://github.com/joseph0926/GameCord): 게임 리뷰와 평가를 공유하는 커뮤니티 플랫폼
-- [FE Quiz](https://github.com/joseph0926/fe-quiz): 공식문서로 학습하기 어려웠던 점을 개선하기 위해, 공식문서를 한국어로 번역(ai) 및 가독성을 높인 mdx 형태로 제공하여 공식문서 학습 효율을 높입니다.
 - [Client Cache Query](https://github.com/joseph0926/client-cache-query): React Query에서 영감을 받은 클라이언트 상태 관리 라이브러리
 
 ## 🛠 기술 스택
