@@ -5,7 +5,7 @@
 ## 🚀 주요 프로젝트
 
 - [GameCord](https://github.com/joseph0926/GameCord): 게임 리뷰와 평가를 공유하는 커뮤니티 플랫폼
-- [Client Cache Query](https://github.com/joseph0926/client-cache-query): React Query에서 영감을 받은 클라이언트 상태 관리 라이브러리
+- [킥스톡](https://github.com/joseph0926/kick-stock): 축구 결과를 이용한 가상의 주식 웹 애플리케이션입니다.
 
 ## 🛠 기술 스택
 
