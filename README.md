@@ -33,7 +33,7 @@
 
 ## 오픈 소스 기여
 
-- [@tanstack/query](https://github.com/TanStack/query/pull/8641): 성능 이슈 최적화 => [v5.66.3 병함](https://github.com/TanStack/query/releases/tag/v5.66.3)
+- [@tanstack/query](https://github.com/TanStack/query/pull/8641): 성능 이슈 최적화 => [v5.66.3 병합](https://github.com/TanStack/query/releases/tag/v5.66.3)
 - [shadcn-ui](https://github.com/shadcn-ui/ui/pull/4745): 내부 코드 로직 개선을 위한 PR 제안
 - [radix-ui](https://github.com/radix-ui/primitives/issues/2832#issuecomment-2327829491): Accordion 컴포넌트 버그 수정 제안
 
