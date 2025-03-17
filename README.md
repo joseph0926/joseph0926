@@ -11,6 +11,12 @@
 
 특히 React의 최신 기능(Suspense, Streaming, Server Components)을 깊이 이해하고 실제 프로젝트에 적용한 경험을 바탕으로, 복잡한 기술적 문제를 효과적으로 해결할 수 있습니다. 웹 성능 최적화와 개발자 경험 개선을 위한 실용적인 솔루션을 제시하는 것을 목표로 합니다.
 
+## 경력
+
+- EA Korea (Freelancer): 2025.03 ~
+- NHN Injeinc: 2024.05 ~ 2025.03
+- Pandora.TV: 2023.07 ~ 2024.05
+
 ## 주요 프로젝트
 
 - [킥스톡](https://github.com/joseph0926/kick-stock): 축구 결과를 이용한 가상의 주식 웹 애플리케이션입니다.
