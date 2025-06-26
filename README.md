@@ -39,7 +39,7 @@ React, Next.js 기반의 최신 웹 스택과 성능 최적화에 특화된 프�
 
 - [React + SSR과 서버 컴포넌트는 뭐가 다를까?](https://joseph0926.tistory.com/128) 
 - [React Query를 사용한 이유](https://joseph0926.tistory.com/114)
-- [React란 뭘까?](https://www.joseph0926.com/post/2025-06-22-react-react-component)
+- [React는 예측 가능성을 높여줍니다](https://www.joseph0926.com/post/2025-06-22-react-react-component)
 
 ## GitHub 통계
 
