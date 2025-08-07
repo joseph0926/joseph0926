@@ -13,6 +13,7 @@ React, Next.js 기반의 최신 웹 스택과 성능 최적화에 특화된 프�
 
 ## 주요 프로젝트
 
+- Devboot: [프로젝트 초기 설정 자동화 CLI](https://github.com/joseph0926/devboot)
 - Blog: [개인 블로그](https://github.com/joseph0926/blog)
 
 ## 기술 스택
