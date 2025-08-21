@@ -1,9 +1,6 @@
 # 안녕하세요, 프론트엔드 개발자 김영훈입니다
 
-React, Next.js 기반의 최신 웹 스택과 성능 최적화에 특화된 프론트엔드 엔지니어입니다.<br/>
-성능 최적화에 특화된 프론트엔드 엔지니어로서, React Query 핵심 PR #8641 병목(O(N^2) → O(N)) 제거로 대규모 useQueries 호출 시간을 55% 감소시키고, PR 1건을 공식 릴리스(v5.66.3)에 반영했습니다.<br/>
-세 조직(EA Korea / NHN Injeinc / 판도라티비)모두에서 빠르게 적응 및 성과를 낸 경험이 존재합니다.<br/>
-자세한 자기소개는 [**자기소개 페이지**](https://www.joseph0926.com/about)에서 확인하실 수 있습니다.
+프론트엔드 엔지니어 | 성능 최적화 전문 | React Query 컨트리뷰터
 
 ## 경력
 
@@ -11,9 +8,30 @@ React, Next.js 기반의 최신 웹 스택과 성능 최적화에 특화된 프�
 - NHN Injeinc: 2024.05 ~ 2025.03
 - Pandora.TV: 2023.07 ~ 2024.05
 
+
+## 오픈 소스 기여
+
+### React Query 코어 기여
+
+**성능 최적화** | [PR #8641](https://github.com/TanStack/query/pull/8641) → [v5.66.3 릴리스](https://github.com/TanStack/query/releases/tag/v5.66.3)
+
+- 문제: useQueries O(N²) 복잡도로 100개 쿼리 시 약 10,000번 연산 발생
+- 해결: observerMatches 캐싱 전략 도입, 처리 시간 55% 단축
+- 검증: 메인테이너와 협업, 10,000개 쿼리 극한 테스트
+
+**SSR Hydration 개선** | [PR #9572](https://github.com/TanStack/query/pull/9572) (Review 진행중)
+
+- Next.js App Router hydration mismatch 근본 원인 분석 및 해결
+- getServerSnapshot 구현으로 서버-클라이언트 상태 일치
+
+**기타 기여**
+
+- React Query: StrictMode 비동기 타이밍 이슈 해결 ([PR #9580](https://github.com/TanStack/query/pull/9580)), Suspense 처리 버그 수정 ([PR #9584](https://github.com/TanStack/query/pull/9584))
+- React Router: relative() 헬퍼 절대경로 버그 수정 ([PR #14156](https://github.com/remix-run/react-router/pull/14156))
+- shadcn/ui & Radix UI: Slot 패턴 호환성 개선 (PR [#4770](https://github.com/shadcn-ui/ui/pull/4770)), Accordion 애니메이션 분석 ([Issue #2832](https://github.com/radix-ui/primitives/issues/2832#issuecomment-2327829491))
+
 ## 주요 프로젝트
 
-- Devboot: [프로젝트 초기 설정 자동화 CLI](https://github.com/joseph0926/devboot)
 - Blog: [개인 블로그](https://github.com/joseph0926/blog)
 
 ## 기술 스택
@@ -30,16 +48,10 @@ React, Next.js 기반의 최신 웹 스택과 성능 최적화에 특화된 프�
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://joseph0926.tistory.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://www.joseph0926.com)
 
-## 오픈 소스 기여
-
-- [@tanstack/query](https://github.com/TanStack/query/pull/8641): 성능 이슈 최적화 => [v5.66.3 병합](https://github.com/TanStack/query/releases/tag/v5.66.3)
-- [shadcn-ui](https://github.com/shadcn-ui/ui/pull/4745): 내부 코드 로직 개선을 위한 PR 제안
-- [radix-ui](https://github.com/radix-ui/primitives/issues/2832#issuecomment-2327829491): Accordion 컴포넌트 버그 수정 제안
-
 ## 최근 블로그 글
 
 - [React + SSR과 서버 컴포넌트는 뭐가 다를까?](https://joseph0926.tistory.com/128) 
-- [React Query를 사용한 이유](https://joseph0926.tistory.com/114)
+- [React Query Issue 해결하기](https://www.joseph0926.com/post/2025-07-24-react-query-issue-)
 - [React는 예측 가능성을 높여줍니다](https://www.joseph0926.com/post/2025-06-22-react-react-component)
 
 ## GitHub 통계
