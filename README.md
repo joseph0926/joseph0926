@@ -26,8 +26,9 @@
 
 **기타 기여**
 
-- React Query: StrictMode 비동기 타이밍 이슈 해결 ([PR #9580](https://github.com/TanStack/query/pull/9580)), Suspense 처리 버그 수정 ([PR #9584](https://github.com/TanStack/query/pull/9584))
+- React Query: StrictMode 비동기 타이밍 이슈 해결 ([PR #9580](https://github.com/TanStack/query/pull/9580)), Suspense 처리 버그 수정 ([PR #9584](https://github.com/TanStack/query/pull/9584)), 캐시 복원 시 combine 재실행 누락 버그 수정 [(PR #9572)](https://github.com/TanStack/query/pull/9592)
 - React Router: relative() 헬퍼 절대경로 버그 수정 ([PR #14156](https://github.com/remix-run/react-router/pull/14156))
+- SWR: useSWRInfinite 사용시 전역 mutate로 데이터 갱신이 안되는 현상 수정 [(PR #4167)](https://github.com/vercel/swr/pull/4167)
 - shadcn/ui & Radix UI: Slot 패턴 호환성 개선 (PR [#4770](https://github.com/shadcn-ui/ui/pull/4770)), Accordion 애니메이션 분석 ([Issue #2832](https://github.com/radix-ui/primitives/issues/2832#issuecomment-2327829491))
 
 ## 주요 프로젝트
@@ -45,14 +46,14 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joseph0926.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph0926)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://joseph0926.tistory.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://www.joseph0926.com)
+[![Blog | Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://www.joseph0926.com)
 
 ## 최근 블로그 글
 
-- [React + SSR과 서버 컴포넌트는 뭐가 다를까?](https://joseph0926.tistory.com/128) 
+- [왜 Suspense가 도입되었을까?](https://www.joseph0926.com/post/2025-07-13-learn-react-02-suspense-)
 - [React Query Issue 해결하기](https://www.joseph0926.com/post/2025-07-24-react-query-issue-)
 - [React는 예측 가능성을 높여줍니다](https://www.joseph0926.com/post/2025-06-22-react-react-component)
+- [Next.js Cache 캐싱의 두 얼굴: 빠른 속도와 정확한 데이터 사이에서](https://www.joseph0926.com/post/2025-08-24-nextjs-cache)
 
 ## GitHub 통계
 
