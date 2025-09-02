@@ -9,15 +9,21 @@
 - Pandora.TV: 2023.07 ~ 2024.05
 
 
-## 오픈 소스 기여
+## 오픈소스 기여
 
-### React Query 코어 기여
+### React Query 코어 기여 - 메인테이너 협업
 
 **성능 최적화** | [PR #8641](https://github.com/TanStack/query/pull/8641) → [v5.66.3 릴리스](https://github.com/TanStack/query/releases/tag/v5.66.3)
 
 - 문제: useQueries O(N²) 복잡도로 100개 쿼리 시 약 10,000번 연산 발생
 - 해결: observerMatches 캐싱 전략 도입, 처리 시간 55% 단축
 - 검증: 메인테이너와 협업, 10,000개 쿼리 극한 테스트
+
+**useQueries combine 함수 버그 수정** | [PR #9592](https://github.com/TanStack/query/pull/9592) → [v5.85.9 릴리스](https://github.com/TanStack/query/releases/tag/v5.85.9)
+
+- 문제: StoragePersister 사용 시 combine 함수가 호출되지 않는 이슈
+- 해결: shallowEqualObjects 비교로 메타데이터 변경 감지 개선
+- 검증: 메인테이너 리뷰 반영, 테스트 케이스 추가 및 최적화
 
 **SSR Hydration 개선** | [PR #9572](https://github.com/TanStack/query/pull/9572) (Review 진행중)
 
@@ -26,9 +32,9 @@
 
 **기타 기여**
 
-- React Query: StrictMode 비동기 타이밍 이슈 해결 ([PR #9580](https://github.com/TanStack/query/pull/9580)), Suspense 처리 버그 수정 ([PR #9584](https://github.com/TanStack/query/pull/9584)), 캐시 복원 시 combine 재실행 누락 버그 수정 [(PR #9572)](https://github.com/TanStack/query/pull/9592)
+- React Query: Suspense 처리 버그 수정 ([PR #9584](https://github.com/TanStack/query/pull/9584)), StrictMode 비동기 타이밍 이슈 해결 ([PR #9580](https://github.com/TanStack/query/pull/9580))
 - React Router: relative() 헬퍼 절대경로 버그 수정 ([PR #14156](https://github.com/remix-run/react-router/pull/14156))
-- SWR: useSWRInfinite 사용시 전역 mutate로 데이터 갱신이 안되는 현상 수정 [(PR #4167)](https://github.com/vercel/swr/pull/4167)
+- SWR: useSWRInfinite 사용시 전역 mutate로 데이터 갱신이 안되는 현상 수정 ([PR #4167](https://github.com/vercel/swr/pull/4167))
 - shadcn/ui & Radix UI: Slot 패턴 호환성 개선 (PR [#4770](https://github.com/shadcn-ui/ui/pull/4770)), Accordion 애니메이션 분석 ([Issue #2832](https://github.com/radix-ui/primitives/issues/2832#issuecomment-2327829491))
 
 ## 주요 프로젝트
