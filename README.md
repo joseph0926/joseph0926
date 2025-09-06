@@ -1,6 +1,6 @@
 # 안녕하세요, 프론트엔드 개발자 김영훈입니다
 
-프론트엔드 엔지니어 | 성능 최적화 전문 | React Query 컨트리뷰터
+프론트엔드 엔지니어 | React Query 컨트리뷰터
 
 ## 경력
 
@@ -24,6 +24,7 @@
 - 문제: StoragePersister 사용 시 combine 함수가 호출되지 않는 이슈
 - 해결: shallowEqualObjects 비교로 메타데이터 변경 감지 개선
 - 검증: 메인테이너 리뷰 반영, 테스트 케이스 추가 및 최적화
+- 관련 글: [Blog](https://www.joseph0926.com/post/2025-09-02-react-query-usequeries-combine-pr-merge)
 
 **SSR Hydration 개선** | [PR #9572](https://github.com/TanStack/query/pull/9572) (Review 진행중)
 
@@ -32,10 +33,9 @@
 
 **기타 기여**
 
-- React Query: Suspense 처리 버그 수정 ([PR #9584](https://github.com/TanStack/query/pull/9584)), StrictMode 비동기 타이밍 이슈 해결 ([PR #9580](https://github.com/TanStack/query/pull/9580))
-- React Router: relative() 헬퍼 절대경로 버그 수정 ([PR #14156](https://github.com/remix-run/react-router/pull/14156))
+- React Query: Suspense 처리 버그 수정 ([PR #9584](https://github.com/TanStack/query/pull/9584)), combine 함수 캐시 버그 수정 ([PR #**9618**](https://github.com/TanStack/query/pull/9618)), hydration 타이밍 이슈 수정 ([PR #9617](https://github.com/TanStack/query/pull/9617))
+- React Router: unstable_middleware 버그 수정 ([PR #14286](https://github.com/remix-run/react-router/pull/14286)), relative() 헬퍼 절대경로 버그 수정 ([PR #14156](https://github.com/remix-run/react-router/pull/14156))
 - SWR: useSWRInfinite 사용시 전역 mutate로 데이터 갱신이 안되는 현상 수정 ([PR #4167](https://github.com/vercel/swr/pull/4167))
-- shadcn/ui & Radix UI: Slot 패턴 호환성 개선 (PR [#4770](https://github.com/shadcn-ui/ui/pull/4770)), Accordion 애니메이션 분석 ([Issue #2832](https://github.com/radix-ui/primitives/issues/2832#issuecomment-2327829491))
 
 ## 주요 프로젝트
 
@@ -56,8 +56,9 @@
 
 ## 최근 블로그 글
 
+- [React Query 내부 동작 원리 - 선택적 리렌더링 최적화](https://www.joseph0926.com/post/2025-08-29-react-query-1)
 - [왜 Suspense가 도입되었을까?](https://www.joseph0926.com/post/2025-07-13-learn-react-02-suspense-)
-- [React Query Issue 해결하기](https://www.joseph0926.com/post/2025-07-24-react-query-issue-)
+- [React Query Issue 해결하기](https://www.joseph0926.com/post/2025-09-02-react-query-usequeries-combine-pr-merge)
 - [React는 예측 가능성을 높여줍니다](https://www.joseph0926.com/post/2025-06-22-react-react-component)
 - [Next.js Cache 캐싱의 두 얼굴: 빠른 속도와 정확한 데이터 사이에서](https://www.joseph0926.com/post/2025-08-24-nextjs-cache)
 
