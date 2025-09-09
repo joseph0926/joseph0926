@@ -13,27 +13,22 @@
 
 ### React Query
 
-**성능 최적화** | [PR #8641](https://github.com/TanStack/query/pull/8641) → [v5.66.3 릴리스](https://github.com/TanStack/query/releases/tag/v5.66.3)
+**useQueries combine 함수 버그 수정 (**[PR #9592](https://github.com/TanStack/query/pull/9592) → [v5.85.9 릴리스](https://github.com/TanStack/query/releases/tag/v5.85.9)**)**
 
-- 문제: useQueries O(N²) 복잡도로 100개 쿼리 시 약 10,000번 연산 발생
-- 해결: observerMatches 캐싱 전략 도입, 처리 시간 55% 단축
-- 검증: 메인테이너와 협업, 10,000개 쿼리 극한 테스트
+StoragePersister 사용 시 combine 함수가 호출되지 않는 상황에서 shallowEqualObjects 비교로 메타데이터 변경 감지를 개선하였습니다.
 
-**useQueries combine 함수 버그 수정** | [PR #9592](https://github.com/TanStack/query/pull/9592) → [v5.85.9 릴리스](https://github.com/TanStack/query/releases/tag/v5.85.9)
+**useQueries 성능 최적화 (**[PR #8641](https://github.com/TanStack/query/pull/8641) → [v5.66.3 릴리스](https://github.com/TanStack/query/releases/tag/v5.66.3)**)**
 
-- 문제: StoragePersister 사용 시 combine 함수가 호출되지 않는 이슈
-- 해결: shallowEqualObjects 비교로 메타데이터 변경 감지 개선
-- 검증: 메인테이너 리뷰 반영, 테스트 케이스 추가 및 최적화
-- 관련 글: [Blog](https://www.joseph0926.com/post/2025-09-02-react-query-usequeries-combine-pr-merge)
+useQueries O(N²) 복잡도로 100개 쿼리 시 약 10,000번 연산 발생하는 상황에서 observerMatches 캐싱 전략을 도입하여 처리 시간 55% 단축하였습니다.
 
-**SSR Hydration 개선** | [PR #9572](https://github.com/TanStack/query/pull/9572) (Review 진행중)
+**v4 suspense 모드에서 무한 리렌더링 버그 수정** | **v4 ci 버그 수정** ([PR #9584](https://github.com/TanStack/query/pull/9584), [PR #9623](https://github.com/TanStack/query/pull/9623) → [v4.40.2 릴리스](https://github.com/TanStack/query/releases/tag/v4.40.2))
 
-- Next.js App Router hydration mismatch 근본 원인 분석 및 해결
-- getServerSnapshot 구현으로 서버-클라이언트 상태 일치
+**기타 수정**
+
+[RSC Hydration 개선](https://github.com/TanStack/query/pull/9572), [combine 함수 캐시 버그 수정](https://github.com/TanStack/query/pull/9618), [hydration 타이밍 이슈 수정](https://github.com/TanStack/query/pull/9617)
 
 **기타**
 
-- React Query: Suspense 처리 버그 수정 ([PR #9584](https://github.com/TanStack/query/pull/9584)), combine 함수 캐시 버그 수정 ([PR #**9618**](https://github.com/TanStack/query/pull/9618)), hydration 타이밍 이슈 수정 ([PR #9617](https://github.com/TanStack/query/pull/9617))
 - React Router: unstable_middleware 버그 수정 ([PR #14286](https://github.com/remix-run/react-router/pull/14286)), relative() 헬퍼 절대경로 버그 수정 ([PR #14156](https://github.com/remix-run/react-router/pull/14156))
 - SWR: useSWRInfinite 사용시 전역 mutate로 데이터 갱신이 안되는 현상 수정 ([PR #4167](https://github.com/vercel/swr/pull/4167))
 
