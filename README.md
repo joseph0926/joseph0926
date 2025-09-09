@@ -1,7 +1,5 @@
 # 안녕하세요, 프론트엔드 개발자 김영훈입니다
 
-프론트엔드 엔지니어 | React Query 컨트리뷰터
-
 ## 경력
 
 - EA Korea (Freelancer): 2025.03 ~
@@ -9,17 +7,13 @@
 - Pandora.TV: 2023.07 ~ 2024.05
 
 
-## 오픈소스 기여
+## 활동
 
 ### React Query
 
 **useQueries combine 함수 버그 수정 (**[PR #9592](https://github.com/TanStack/query/pull/9592) → [v5.85.9 릴리스](https://github.com/TanStack/query/releases/tag/v5.85.9)**)**
 
-StoragePersister 사용 시 combine 함수가 호출되지 않는 상황에서 shallowEqualObjects 비교로 메타데이터 변경 감지를 개선하였습니다.
-
 **useQueries 성능 최적화 (**[PR #8641](https://github.com/TanStack/query/pull/8641) → [v5.66.3 릴리스](https://github.com/TanStack/query/releases/tag/v5.66.3)**)**
-
-useQueries O(N²) 복잡도로 100개 쿼리 시 약 10,000번 연산 발생하는 상황에서 observerMatches 캐싱 전략을 도입하여 처리 시간 55% 단축하였습니다.
 
 **v4 suspense 모드에서 무한 리렌더링 버그 수정** | **v4 ci 버그 수정** ([PR #9584](https://github.com/TanStack/query/pull/9584), [PR #9623](https://github.com/TanStack/query/pull/9623) → [v4.40.2 릴리스](https://github.com/TanStack/query/releases/tag/v4.40.2))
 
