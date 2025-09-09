@@ -23,10 +23,6 @@ useQueries O(N²) 복잡도로 100개 쿼리 시 약 10,000번 연산 발생하�
 
 **v4 suspense 모드에서 무한 리렌더링 버그 수정** | **v4 ci 버그 수정** ([PR #9584](https://github.com/TanStack/query/pull/9584), [PR #9623](https://github.com/TanStack/query/pull/9623) → [v4.40.2 릴리스](https://github.com/TanStack/query/releases/tag/v4.40.2))
 
-**기타 수정**
-
-[RSC Hydration 개선](https://github.com/TanStack/query/pull/9572), [combine 함수 캐시 버그 수정](https://github.com/TanStack/query/pull/9618), [hydration 타이밍 이슈 수정](https://github.com/TanStack/query/pull/9617)
-
 **기타**
 
 - React Router: unstable_middleware 버그 수정 ([PR #14286](https://github.com/remix-run/react-router/pull/14286)), relative() 헬퍼 절대경로 버그 수정 ([PR #14156](https://github.com/remix-run/react-router/pull/14156))
