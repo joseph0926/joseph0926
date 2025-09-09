@@ -11,7 +11,7 @@
 
 ## 오픈소스 기여
 
-### React Query 코어 기여 - 메인테이너 협업
+### React Query
 
 **성능 최적화** | [PR #8641](https://github.com/TanStack/query/pull/8641) → [v5.66.3 릴리스](https://github.com/TanStack/query/releases/tag/v5.66.3)
 
@@ -31,7 +31,7 @@
 - Next.js App Router hydration mismatch 근본 원인 분석 및 해결
 - getServerSnapshot 구현으로 서버-클라이언트 상태 일치
 
-**기타 기여**
+**기타**
 
 - React Query: Suspense 처리 버그 수정 ([PR #9584](https://github.com/TanStack/query/pull/9584)), combine 함수 캐시 버그 수정 ([PR #**9618**](https://github.com/TanStack/query/pull/9618)), hydration 타이밍 이슈 수정 ([PR #9617](https://github.com/TanStack/query/pull/9617))
 - React Router: unstable_middleware 버그 수정 ([PR #14286](https://github.com/remix-run/react-router/pull/14286)), relative() 헬퍼 절대경로 버그 수정 ([PR #14156](https://github.com/remix-run/react-router/pull/14156))
