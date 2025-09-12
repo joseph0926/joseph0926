@@ -17,10 +17,9 @@
 
 **v4 suspense 모드에서 무한 리렌더링 버그 수정** | **v4 ci 버그 수정** ([PR #9584](https://github.com/TanStack/query/pull/9584), [PR #9623](https://github.com/TanStack/query/pull/9623) → [v4.40.2 릴리스](https://github.com/TanStack/query/releases/tag/v4.40.2))
 
-**기타**
+### React Router
 
-- React Router: unstable_middleware 버그 수정 ([PR #14286](https://github.com/remix-run/react-router/pull/14286)), relative() 헬퍼 절대경로 버그 수정 ([PR #14156](https://github.com/remix-run/react-router/pull/14156))
-- SWR: useSWRInfinite 사용시 전역 mutate로 데이터 갱신이 안되는 현상 수정 ([PR #4167](https://github.com/vercel/swr/pull/4167))
+**unstable_middleware: true시 skipRevalidation이 무시되는 버그 수정** ([PR #14286](https://github.com/remix-run/react-router/pull/14286) → v7.9.0 릴리스 예정)
 
 ## 주요 프로젝트
 
