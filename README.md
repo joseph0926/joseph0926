@@ -21,6 +21,8 @@
 
 **unstable_middleware: true시 skipRevalidation이 무시되는 버그 수정** ([PR #14286](https://github.com/remix-run/react-router/pull/14286) → [v7.9.0 릴리스](https://github.com/remix-run/react-router/releases/tag/react-router%407.9.0))
 
+**브라우저 스토리지 접근이 제한되었을 때 페이지가 에러뜨는 현상 수정** ([PR #14335](https://github.com/remix-run/react-router/pull/14335) -> 릴리스 예정)
+
 ## 주요 프로젝트
 
 - Blog: [개인 블로그](https://github.com/joseph0926/blog)
