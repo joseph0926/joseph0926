@@ -25,6 +25,7 @@
 
 ## 주요 프로젝트
 
+- FristTx: [Prepaint CSR × Local‑First × Transaction Graph](https://github.com/joseph0926/firsttx)
 - Blog: [개인 블로그](https://github.com/joseph0926/blog)
 
 ## 기술 스택
