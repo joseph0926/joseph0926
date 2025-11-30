@@ -1,25 +1,31 @@
-## 김영훈
+## 김영훈 (Younghoon Kim)
 
-Frontend Engineer | React Query/React Router Contributor
+Frontend Engineer | React Query / React Router Contributor  
 
-EA Korea, NHN, 판도라TV 3년 실무
+3 years of experience at EA Korea, NHN, and PandoraTV
 
-[![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=vercel&logoColor=white)](https://www.joseph0926.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph0926)
-
----
-
-### 오픈소스 기여
-
-**React Query**
-O(N²) 복잡도 개선 ([PR #8641](https://github.com/TanStack/query/pull/8641)), persist 버그 수정 ([PR #9592](https://github.com/TanStack/query/pull/9592)), CI 타임아웃 해결 ([PR #9623](https://github.com/TanStack/query/pull/9623))
-
-**React Router**
-미들웨어 재실행 방지 ([PR #14286](https://github.com/remix-run/react-router/pull/14286)), 스토리지 제한 대응 ([PR #14335](https://github.com/remix-run/react-router/pull/14335))
+[![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=vercel&logoColor=white)](https://www.joseph0926.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph0926)
 
 ---
 
-### 기술 블로그
+### Open Source
 
-[React Query 선택적 리렌더링](https://www.joseph0926.com/post/2025-08-29-react-query-1) · [CSR Prepaint 구현](https://www.joseph0926.com/post/2025-10-12-csr-prepaint) · [IndexedDB ↔ React 동기화](https://www.joseph0926.com/post/2025-10-12-local-first-usesyncexternalstore-indexeddb-react)
+**React Query**  
+Improved O(N²) complexity ([PR #8641](https://github.com/TanStack/query/pull/8641)),  
+fixed persist bug ([PR #9592](https://github.com/TanStack/query/pull/9592)),  
+resolved CI timeout ([PR #9623](https://github.com/TanStack/query/pull/9623))
+
+**React Router**  
+Prevented middleware from running twice ([PR #14286](https://github.com/remix-run/react-router/pull/14286)),  
+handled storage limit issues ([PR #14335](https://github.com/remix-run/react-router/pull/14335))
+
+---
+
+### Tech Blog
+
+[Selective re-rendering in React Query](https://www.joseph0926.com/post/2025-08-29-react-query-1) ·
+[CSR pre-paint implementation](https://www.joseph0926.com/post/2025-10-12-csr-prepaint) ·
+[Syncing IndexedDB and React](https://www.joseph0926.com/post/2025-10-12-local-first-usesyncexternalstore-indexeddb-react)
 
 **Stack**: React, TypeScript, React Query, Zustand, Next.js, Node.js
