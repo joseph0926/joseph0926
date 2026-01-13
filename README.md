@@ -18,23 +18,7 @@ Frontend Engineer | React Query / React Router Contributor
     <a href="https://github.com/remix-run/react-router/pull/14534">React Router #14534</a>,
     <a href="https://github.com/TanStack/query/pull/8641">TanStack Query #8641</a>
   </summary>
-
-  <br />
-
-  <p><strong>Featured PRs</strong></p>
-  <ul>
-    <li>
-      <strong>React Router</strong> — Fix <code>fetcher.submit</code> JSON bug + add SSR regression test:
-      <a href="https://github.com/remix-run/react-router/pull/14534">#14534</a>
-    </li>
-    <li>
-      <strong>TanStack Query</strong> — Optimize <code>useQueries</code> from O(N²) → O(N) (~55% fewer function calls):
-      <a href="https://github.com/TanStack/query/pull/8641">#8641</a>
-    </li>
-  </ul>
-
   <hr />
-
   <ul>
     <li>
       <strong>React Router</strong> (5 PRs)
