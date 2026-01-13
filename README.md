@@ -11,18 +11,64 @@ Frontend Engineer | React Query / React Router Contributor
 
 ### Open Source
 
-| Project | Description | PR |
-|---------|-------------|-----|
-| React Router | Fix middleware skipRevalidation missing | [#14286](https://github.com/remix-run/react-router/pull/14286) |
-| React Router | Handle session storage failure in restricted environments | [#14335](https://github.com/remix-run/react-router/pull/14335) |
-| React Router | Fix fetcher.submit JSON bug + SSR regression test | [#14534](https://github.com/remix-run/react-router/pull/14534) |
-| React Router | Fix generatePath suffix parameter regression | [#14269](https://github.com/remix-run/react-router/pull/14269) |
-| React Router | Add crossOrigin attribute to `<Links />` for CDN CORS | [#14687](https://github.com/remix-run/react-router/pull/14687) |
-| TanStack Query | useQueries O(N²) → O(N) optimization (~55% fewer function calls) | [#8641](https://github.com/TanStack/query/pull/8641) |
-| TanStack Query | Fix persist + memoized combine bug | [#9592](https://github.com/TanStack/query/pull/9592) |
-| TanStack Query | Fix CI timeout (Nx Cloud config) | [#9623](https://github.com/TanStack/query/pull/9623) |
-| React Hook Form | Fix useController type regression + type tests | [#13150](https://github.com/react-hook-form/react-hook-form/pull/13150) |
-| TanStack Router | Fix params.parse notFound() 500→404 | [#5864](https://github.com/TanStack/router/pull/5864) |
+<details>
+  <summary>
+    <strong>Open Source</strong> · React Router / TanStack Query contributor · <strong>10 PRs</strong> ·
+    Featured:
+    <a href="https://github.com/remix-run/react-router/pull/14534">React Router #14534</a>,
+    <a href="https://github.com/TanStack/query/pull/8641">TanStack Query #8641</a>
+  </summary>
+
+  <br />
+
+  <p><strong>Featured PRs</strong></p>
+  <ul>
+    <li>
+      <strong>React Router</strong> — Fix <code>fetcher.submit</code> JSON bug + add SSR regression test:
+      <a href="https://github.com/remix-run/react-router/pull/14534">#14534</a>
+    </li>
+    <li>
+      <strong>TanStack Query</strong> — Optimize <code>useQueries</code> from O(N²) → O(N) (~55% fewer function calls):
+      <a href="https://github.com/TanStack/query/pull/8641">#8641</a>
+    </li>
+  </ul>
+
+  <hr />
+
+  <ul>
+    <li>
+      <strong>React Router</strong> (5 PRs)
+      <ul>
+        <li>Fix middleware <code>skipRevalidation</code> missing — <a href="https://github.com/remix-run/react-router/pull/14286">#14286</a></li>
+        <li>Handle sessionStorage failure in restricted environments — <a href="https://github.com/remix-run/react-router/pull/14335">#14335</a></li>
+        <li>Fix <code>fetcher.submit</code> JSON bug + SSR regression test — <a href="https://github.com/remix-run/react-router/pull/14534">#14534</a></li>
+        <li>Fix <code>generatePath</code> suffix parameter regression — <a href="https://github.com/remix-run/react-router/pull/14269">#14269</a></li>
+        <li>Add <code>crossOrigin</code> attribute to <code>&lt;Links /&gt;</code> for CDN CORS — <a href="https://github.com/remix-run/react-router/pull/14687">#14687</a></li>
+      </ul>
+    </li>
+    <li>
+      <strong>TanStack Query</strong> (3 PRs)
+      <ul>
+        <li>Optimize <code>useQueries</code> O(N²) → O(N) (~55% fewer function calls) — <a href="https://github.com/TanStack/query/pull/8641">#8641</a></li>
+        <li>Fix persist + memoized combine bug — <a href="https://github.com/TanStack/query/pull/9592">#9592</a></li>
+        <li>Fix CI timeout (Nx Cloud config) — <a href="https://github.com/TanStack/query/pull/9623">#9623</a></li>
+      </ul>
+    </li>
+    <li>
+      <strong>React Hook Form</strong> (1 PR)
+      <ul>
+        <li>Fix <code>useController</code> type regression + type tests — <a href="https://github.com/react-hook-form/react-hook-form/pull/13150">#13150</a></li>
+      </ul>
+    </li>
+    <li>
+      <strong>TanStack Router</strong> (1 PR)
+      <ul>
+        <li>Fix <code>params.parse</code> notFound() 500 → 404 — <a href="https://github.com/TanStack/router/pull/5864">#5864</a></li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
 
 
 ---
