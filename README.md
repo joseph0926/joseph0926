@@ -13,10 +13,7 @@ Frontend Engineer | React Query / React Router Contributor
 
 <details>
   <summary>
-    <strong>Open Source</strong> · React Router / TanStack Query contributor · <strong>10 PRs</strong> ·
-    Featured:
-    <a href="https://github.com/remix-run/react-router/pull/14534">React Router #14534</a>,
-    <a href="https://github.com/TanStack/query/pull/8641">TanStack Query #8641</a>
+    <strong>Open Source</strong> · React Router / TanStack Query contributor · <strong>10 PRs</strong>
   </summary>
   <hr />
   <ul>
