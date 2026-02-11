@@ -56,8 +56,8 @@ Frontend Engineer | React Query / React Router Contributor
 
 ### Tech Blog
 
-[Selective re-rendering in React Query](https://www.joseph0926.com/post/2025-08-29-react-query-1) ·
-[CSR pre-paint implementation](https://www.joseph0926.com/post/2025-10-12-csr-prepaint) ·
-[Syncing IndexedDB and React](https://www.joseph0926.com/post/2025-10-12-local-first-usesyncexternalstore-indexeddb-react)
+[How can esm be statically analyzed despite being asynchronous](https://www.joseph0926.com/post/2026-02-10-how-can-esm-be-statically-analyzed-despite-being-asynchronous) ·
+[Why do people say map set are more efficient than array](https://www.joseph0926.com/post/2026-02-01-why-do-people-say-map-set-are-more-efficient-than-array) ·
+[How does RSC split the server/client bundles?](https://www.joseph0926.com/post/2025-11-01-rscneun-eotteoundefinedge-seobeokeulraieonteu-beondeuleul-nanulkka)
 
 **Stack**: React, TypeScript, React Query, Zustand, Next.js, Node.js
