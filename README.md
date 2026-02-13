@@ -56,8 +56,9 @@ Frontend Engineer | React Query / React Router Contributor
 
 ### Tech Blog
 
-[How can esm be statically analyzed despite being asynchronous](https://www.joseph0926.com/post/2026-02-10-how-can-esm-be-statically-analyzed-despite-being-asynchronous) ·
-[Why do people say map set are more efficient than array](https://www.joseph0926.com/post/2026-02-01-why-do-people-say-map-set-are-more-efficient-than-array) ·
-[How does RSC split the server/client bundles?](https://www.joseph0926.com/post/2025-11-01-rscneun-eotteoundefinedge-seobeokeulraieonteu-beondeuleul-nanulkka)
+- [Eeact subtle optimizations](https://www.joseph0926.com/post/2026-02-13-react-subtle-optimizations)
+- [How can esm be statically analyzed despite being asynchronous](https://www.joseph0926.com/post/2026-02-10-how-can-esm-be-statically-analyzed-despite-being-asynchronous)
+- [Why do people say map set are more efficient than array](https://www.joseph0926.com/post/2026-02-01-why-do-people-say-map-set-are-more-efficient-than-array)
+- [How does RSC split the server/client bundles?](https://www.joseph0926.com/post/2025-11-01-rscneun-eotteoundefinedge-seobeokeulraieonteu-beondeuleul-nanulkka)
 
 **Stack**: React, TypeScript, React Query, Zustand, Next.js, Node.js
