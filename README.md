@@ -13,7 +13,7 @@ Frontend Engineer | React Query / React Router Contributor
 
 <details>
   <summary>
-    <strong>Open Source</strong> · React Router / TanStack Query contributor · <strong>10 PRs</strong>
+    <strong>Open Source</strong> · React Router / TanStack Query contributor · <strong>11 PRs</strong>
   </summary>
   <hr />
   <ul>
@@ -45,6 +45,12 @@ Frontend Engineer | React Query / React Router Contributor
       <strong>TanStack Router</strong> (1 PR)
       <ul>
         <li>Fix <code>params.parse</code> notFound() 500 → 404 — <a href="https://github.com/TanStack/router/pull/5864">#5864</a></li>
+      </ul>
+    </li>
+    <li>
+      <strong>Redux Toolkit</strong> (1 PR)
+      <ul>
+        <li>Prevent <code>onQueryStarted</code> from firing at end-of-list in RTK Query infinite queries + regression tests — <a href="https://github.com/reduxjs/redux-toolkit/pull/5182">#5182</a></li>
       </ul>
     </li>
   </ul>
