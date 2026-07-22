@@ -1,8 +1,10 @@
 ## 김영훈 (Younghoon Kim)
 
-Frontend Engineer | React Query / React Router Contributor  
+Frontend Engineer | React Router / TanStack Query Contributor
 
-3 years of experience at EA Korea, NHN, and PandoraTV
+Building React systems that preserve user context, keep data consistent, and make failures recoverable.
+
+3 years of experience across EA Korea, NHN Injeinc, and PandoraTV.
 
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=vercel&logoColor=white)](https://www.joseph0926.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph0926)
@@ -13,7 +15,7 @@ Frontend Engineer | React Query / React Router Contributor
 
 <details>
   <summary>
-    <strong>Open Source</strong> · React Router / TanStack Query contributor · <strong>11 PRs</strong>
+    <strong>11 merged PRs</strong> across React Router, TanStack Query, React Hook Form, TanStack Router, and Redux Toolkit
   </summary>
   <hr />
   <ul>
@@ -56,15 +58,21 @@ Frontend Engineer | React Query / React Router Contributor
   </ul>
 </details>
 
+---
 
+### Featured Project
+
+**[FirstTx](https://github.com/joseph0926/firsttx)** — Five npm packages for restoring CSR screen state on revisit and rolling back failed updates.
+
+[Docs](https://www.firsttx.store) · [Playground](https://firsttx-playground.vercel.app) · [DevTools](https://chromewebstore.google.com/detail/firsttx-devtools/onpdifkipmmkajdhodmpphmlpbnopkdd)
 
 ---
 
 ### Tech Blog
 
-- [React subtle optimizations](https://www.joseph0926.com/post/2026-02-13-react-subtle-optimizations)
-- [How can esm be statically analyzed despite being asynchronous](https://www.joseph0926.com/post/2026-02-10-how-can-esm-be-statically-analyzed-despite-being-asynchronous)
-- [Why do people say map set are more efficient than array](https://www.joseph0926.com/post/2026-02-01-why-do-people-say-map-set-are-more-efficient-than-array)
-- [Why you should not start coding when you get a feature request](https://www.joseph0926.com/post/2026-05-26-feature-delivery-before-you-code)
+- [I upgraded DOMPurify, so why did I end up fixing happy-dom?](https://www.joseph0926.com/post/2026-07-14-upgraded-dompurify-why-fix-happy-dom)
+- [Why I separated data processing and UI responsibilities from React Query custom hooks](https://www.joseph0926.com/post/2026-07-21-react-query-custom-hook-responsibility-boundaries)
+- [useRef holds values not needed for rendering, so why should you not read it during render?](https://www.joseph0926.com/post/2026-03-01-why-shouldnt-you-read-useref-during-render)
+- [Why replacing window.confirm with a React Dialog is not just a UI swap](https://www.joseph0926.com/post/2026-07-09-window-confirm-react-dialog)
 
-**Stack**: React, TypeScript, React Query, Zustand, Next.js, Node.js
+**Stack**: React, TypeScript, Next.js, React Router, TanStack Query, Zustand, Zod, Playwright, Vitest, Vite
