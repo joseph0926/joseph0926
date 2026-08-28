@@ -2,8 +2,6 @@
 
 Frontend Engineer | React Router / TanStack Query Contributor
 
-Building React systems that preserve user context, keep data consistent, and make failures recoverable.
-
 3 years of experience across EA Korea, NHN Injeinc, and PandoraTV.
 
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=rss&logoColor=white)](https://www.joseph0926.com)
