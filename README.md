@@ -48,10 +48,6 @@ Frontend Engineer | React Router / TanStack Query Contributor
 
 [Docs](https://www.firsttx.store) | [Playground](https://firsttx-playground.vercel.app) | [DevTools](https://chromewebstore.google.com/detail/firsttx-devtools/onpdifkipmmkajdhodmpphmlpbnopkdd)
 
-**[Bug Dreamer](https://github.com/joseph0926/bug-dreamer)** — Generates boundary-state tests for three FirstTx modules from documentation, public types, and existing tests. It runs them in network-isolated Docker containers and reports only failures that reproduce.
-
-[20-case benchmark](https://github.com/joseph0926/bug-dreamer/blob/main/benchmark/manifest.json) | [7 published reports](https://github.com/joseph0926/bug-dreamer/blob/main/nightmares/2026-08-31.md)
-
 ---
 
 ### Tech Blog
