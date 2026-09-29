@@ -17,7 +17,7 @@ Frontend Engineer | React Router / TanStack Query Contributor
 
 ### Tech Blog
 
-- [What can I add to AI](https://www.joseph0926.com/post/2026-09-16-what-can-i-add-to-ai)
+- [If AI Can Do It All, What Can I Add?](https://www.joseph0926.com/post/2026-09-16-what-can-i-add-to-ai)
 - [How I turned bug reports into reproducible links](https://www.joseph0926.com/post/2026-08-31-bug-report-reproducible-link)
 - [I upgraded DOMPurify, so why did I end up fixing happy-dom?](https://www.joseph0926.com/post/2026-07-14-upgraded-dompurify-why-fix-happy-dom)
 - [React Query useQueries combine function bug fix: From PR to Merge](https://www.joseph0926.com/post/2025-09-02-react-query-usequeries-combine-pr-merge)
