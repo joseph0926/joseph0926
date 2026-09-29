@@ -11,47 +11,13 @@ Frontend Engineer | React Router / TanStack Query Contributor
 
 ### Open Source
 
-**12 merged PRs** across React Router, TanStack Query, React Hook Form, TanStack Router, and Redux Toolkit
-
-**React Router** (5 PRs)
-
-- Fix missing `skipRevalidation` in middleware — [#14286](https://github.com/remix-run/react-router/pull/14286)
-- Handle sessionStorage failure in restricted environments — [#14335](https://github.com/remix-run/react-router/pull/14335)
-- Fix `fetcher.submit` misdetecting plain objects as HTML elements + browser regression test — [#14534](https://github.com/remix-run/react-router/pull/14534)
-- Fix `generatePath` suffix parameter regression — [#14269](https://github.com/remix-run/react-router/pull/14269)
-- Add `crossOrigin` attribute to `<Links />` for CDN CORS — [#14687](https://github.com/remix-run/react-router/pull/14687)
-
-**TanStack Query** (4 PRs)
-
-- Optimize `useQueries` O(N²) → O(N) (~55% fewer function calls) — [#8641](https://github.com/TanStack/query/pull/8641)
-- Fix infinite re-renders with synchronous queries in Suspense mode — [#9584](https://github.com/TanStack/query/pull/9584)
-- Fix persist + memoized combine bug — [#9592](https://github.com/TanStack/query/pull/9592)
-- Fix CI timeout (Nx Cloud config) — [#9623](https://github.com/TanStack/query/pull/9623)
-
-**React Hook Form** (1 PR)
-
-- Fix `useController` type regression + type tests — [#13150](https://github.com/react-hook-form/react-hook-form/pull/13150)
-
-**TanStack Router** (1 PR)
-
-- Fix `params.parse` notFound() 500 → 404 — [#5864](https://github.com/TanStack/router/pull/5864)
-
-**Redux Toolkit** (1 PR)
-
-- Prevent `onQueryStarted` from firing at end-of-list in RTK Query infinite queries + regression tests — [#5182](https://github.com/reduxjs/redux-toolkit/pull/5182)
-
----
-
-### Featured Projects
-
-**[FirstTx](https://github.com/joseph0926/firsttx)** — Restores CSR screen state on revisit and rolls back failed optimistic updates, shipped as 5 npm packages.
-
-[Docs](https://www.firsttx.store) | [Playground](https://firsttx-playground.vercel.app) | [DevTools](https://chromewebstore.google.com/detail/firsttx-devtools/onpdifkipmmkajdhodmpphmlpbnopkdd)
+[**12 merged PRs** across React Router, TanStack Query, React Hook Form, TanStack Router, and Redux Toolkit](https://github.com/search?q=is%3Apr+author%3Ajoseph0926+is%3Amerged+repo%3Aremix-run%2Freact-router+repo%3ATanStack%2Fquery+repo%3Areact-hook-form%2Freact-hook-form+repo%3ATanStack%2Frouter+repo%3Areduxjs%2Fredux-toolkit&type=pullrequests)
 
 ---
 
 ### Tech Blog
 
+- [What can I add to AI](https://www.joseph0926.com/post/2026-09-16-what-can-i-add-to-ai)
 - [How I turned bug reports into reproducible links](https://www.joseph0926.com/post/2026-08-31-bug-report-reproducible-link)
 - [I upgraded DOMPurify, so why did I end up fixing happy-dom?](https://www.joseph0926.com/post/2026-07-14-upgraded-dompurify-why-fix-happy-dom)
 - [React Query useQueries combine function bug fix: From PR to Merge](https://www.joseph0926.com/post/2025-09-02-react-query-usequeries-combine-pr-merge)
